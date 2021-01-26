@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', '| Hompage')
+@section('title' , '| Hompage')
 
   
   @section('content')
